@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "essaye_de_moha/1.0.0": {
+        "runtime": {
+          "essaye_de_moha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "essaye_de_moha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
